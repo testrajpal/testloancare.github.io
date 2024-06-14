@@ -14,14 +14,14 @@
       {
         "appID": "BBZJ556969.com.loancareapp.LakeViewApp",
         "paths": [
-          "/notify/*",
+          "/notify*",
           
         ]
       },
       {
         "appID": "BBZJ556969.com.loancareapp.PremiumMortgageApp",
         "paths": [
-          "/notify/*",
+          "/notify*",
          
         ]
       }
